@@ -1,0 +1,30 @@
+.home-container {
+  width: 100%;
+  display: flex;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.home-text {
+  display: inline-block;
+}
+.home-text01 {
+  display: inline-block;
+  box-shadow: rgb(212, 212, 212) 5px 5px 10px 0px;
+  text-align: center;
+}
+.home-text02 {
+  fill: var(--dl-color-theme-neutral-dark);
+  color: rgb(57, 2, 101);
+  display: inline-block;
+  box-shadow: rgb(212, 212, 212) 5px 5px 10px 0px;
+  text-align: center;
+  font-family: "Georgia";
+}
+.home-text03 {
+  font-style: italic;
+  font-weight: 700;
+}
+.home-text06 {
+  display: inline-block;
+}
